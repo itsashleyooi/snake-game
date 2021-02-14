@@ -5,4 +5,4 @@ a classic snake game built with python
 For mac users:
 - Open terminal 
 - locate the .py file
-- type python snake-game.py in terminal 
+- type "python snake-game.py" in terminal 
