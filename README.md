@@ -1,5 +1,5 @@
 # snake-game
-A classic snake game built with python
+A classic snake game built with python.
 
 ### To run the game:
 For mac users:
