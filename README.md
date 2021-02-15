@@ -3,6 +3,6 @@ A classic snake game built with python.
 
 ### To run the game:
 For mac users:
-- Open terminal 
-- locate the .py file
-- type "python snake-game.py" in terminal 
+1. Open terminal 
+2. Locate the .py file
+3. Type `python snake-game.py` in terminal 
